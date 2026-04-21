@@ -106,6 +106,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 Prasad
-GitHub: https://github.com/your-username
+GitHub: https://github.com/PrasadPapppu
+
 
 ---
